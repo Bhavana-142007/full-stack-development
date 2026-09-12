@@ -1,0 +1,14 @@
+{
+  "name": "full-project",
+  "version": "1.0.0",
+  "description": "Field & Fold — a modular e-commerce product catalog capstone. Built with vanilla JS (ES modules), a custom client-side router, and Vite for bundling, minification, and asset optimization.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
